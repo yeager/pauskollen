@@ -1,0 +1,196 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the pauskollen package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
+# Translators:
+# Daniel Nylander <po@danielnylander.se>, 2026
+# 
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: pauskollen\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-02-22 17:07+0100\n"
+"PO-Revision-Date: 2026-02-22 16:11+0000\n"
+"Last-Translator: Daniel Nylander <po@danielnylander.se>, 2026\n"
+"Language-Team: Swedish (https://app.transifex.com/danielnylander/teams/305215/sv/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: sv\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: src/pauskollen/main.py:31
+msgid "Deep Breathing"
+msgstr "Djup andning"
+
+#: src/pauskollen/main.py:32
+msgid "Breathe in slowly... 1, 2, 3, 4"
+msgstr "Andas in långsamt... 1, 2, 3, 4"
+
+#: src/pauskollen/main.py:32
+msgid "Hold... 1, 2, 3"
+msgstr "Håll kvar... 1, 2, 3"
+
+#: src/pauskollen/main.py:32
+msgid "Breathe out slowly... 1, 2, 3, 4, 5"
+msgstr "Andas ut långsamt... 1, 2, 3, 4, 5"
+
+#: src/pauskollen/main.py:34
+msgid "Body Scan"
+msgstr "Känn av kroppen"
+
+#: src/pauskollen/main.py:35
+msgid "Close your eyes"
+msgstr "Stäng dina ögon"
+
+#: src/pauskollen/main.py:35
+msgid "Feel your feet on the floor"
+msgstr "Känn dina fötter på golvet"
+
+#: src/pauskollen/main.py:35
+msgid "Relax your legs"
+msgstr "Slappna av i benen"
+
+#: src/pauskollen/main.py:35
+msgid "Relax your tummy"
+msgstr "Slappna av i magen"
+
+#: src/pauskollen/main.py:35
+msgid "Relax your shoulders"
+msgstr "Slappna av i axlarna"
+
+#: src/pauskollen/main.py:35
+msgid "Relax your face"
+msgstr "Slappna av i ansiktet"
+
+#: src/pauskollen/main.py:35
+msgid "Open your eyes"
+msgstr "Öppna dina ögon"
+
+#: src/pauskollen/main.py:37
+msgid "Counting"
+msgstr "Räkning"
+
+#: src/pauskollen/main.py:38
+msgid "Count slowly to 10"
+msgstr "Räkna långsamt till 10"
+
+#: src/pauskollen/main.py:38
+msgid "Now count backwards from 10"
+msgstr "Räkna nu baklänges från 10"
+
+#: src/pauskollen/main.py:38
+msgid "Take a deep breath"
+msgstr "Ta ett djupt andetag"
+
+#: src/pauskollen/main.py:40
+msgid "Stretching"
+msgstr "Sträck ut"
+
+#: src/pauskollen/main.py:41
+msgid "Stretch your arms up high"
+msgstr "Sträck armarna högt upp"
+
+#: src/pauskollen/main.py:41
+msgid "Touch your toes"
+msgstr "Rör vid tårna"
+
+#: src/pauskollen/main.py:41
+msgid "Roll your shoulders"
+msgstr "Rulla dina axlar"
+
+#: src/pauskollen/main.py:41
+msgid "Shake your hands"
+msgstr "Skaka dina händer"
+
+#: src/pauskollen/main.py:41
+msgid "Stand still and breathe"
+msgstr "Stå stilla och andas"
+
+#: src/pauskollen/main.py:43
+msgid "5-4-3-2-1 Grounding"
+msgstr "5-4-3-2-1 Jordning"
+
+#: src/pauskollen/main.py:44
+msgid "Name 5 things you can SEE"
+msgstr "Nämn fem saker du kan SE"
+
+#: src/pauskollen/main.py:44
+msgid "Name 4 things you can TOUCH"
+msgstr "Nämn fyra saker som du kan RÖRA VID"
+
+#: src/pauskollen/main.py:44
+msgid "Name 3 things you can HEAR"
+msgstr "Nämn tre saker du kan HÖRA"
+
+#: src/pauskollen/main.py:44
+msgid "Name 2 things you can SMELL"
+msgstr "Nämn två saker som du kan LUKTA"
+
+#: src/pauskollen/main.py:44
+msgid "Name 1 thing you can TASTE"
+msgstr "Nämn en sak som du kan SMAKA"
+
+#: src/pauskollen/main.py:103 src/pauskollen/main.py:375
+msgid "Pauskollen"
+msgstr "Pauskollen"
+
+#: src/pauskollen/main.py:118
+msgid "About"
+msgstr "Om"
+
+#: src/pauskollen/main.py:138 src/pauskollen/main.py:302
+msgid "Choose a timer or exercise"
+msgstr "Välj en timer eller övning"
+
+#: src/pauskollen/main.py:156 src/pauskollen/main.py:216
+msgid "Start"
+msgstr "Starta"
+
+#: src/pauskollen/main.py:162
+msgid "Stop"
+msgstr "Stoppa"
+
+#: src/pauskollen/main.py:169
+msgid "Reset"
+msgstr "Nollställ"
+
+#: src/pauskollen/main.py:176
+msgid "Timer"
+msgstr "Timer"
+
+#: src/pauskollen/main.py:185
+msgid "Pause Exercises"
+msgstr "Pausövningar"
+
+#: src/pauskollen/main.py:211
+#, python-format
+msgid "%d seconds"
+msgstr "%d sekunder"
+
+#: src/pauskollen/main.py:238
+msgid "Exercises"
+msgstr "Övningar"
+
+#: src/pauskollen/main.py:276
+#, python-format
+msgid "%d minute pause"
+msgstr "%d minut paus"
+
+#: src/pauskollen/main.py:287
+msgid "Running..."
+msgstr "Kör..."
+
+#: src/pauskollen/main.py:295
+msgid "Paused"
+msgstr "Pausad"
+
+#: src/pauskollen/main.py:317
+msgid "Time's up! 🎉"
+msgstr "Tiden är slut! 🎉"
+
+#: src/pauskollen/main.py:382
+msgid "Visual timer and regulation exercises for children with ADHD/NPF"
+msgstr "Visuell timer och somatiska övningar för barn med ADHD/NPF"
