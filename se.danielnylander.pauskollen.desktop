@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=Pauskollen
+Name[sv]=Pauskollen
+Comment=Visual timer and regulation exercises
+Comment[sv]=Visuell timer och pausövningar
+Exec=pauskollen
+Icon=se.danielnylander.pauskollen
+Type=Application
+Categories=Education;Accessibility;
+Keywords=timer;pause;adhd;regulation;break;

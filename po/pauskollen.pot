@@ -1,0 +1,192 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the pauskollen package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: pauskollen\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-02-22 17:07+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: src/pauskollen/main.py:31
+msgid "Deep Breathing"
+msgstr ""
+
+#: src/pauskollen/main.py:32
+msgid "Breathe in slowly... 1, 2, 3, 4"
+msgstr ""
+
+#: src/pauskollen/main.py:32
+msgid "Hold... 1, 2, 3"
+msgstr ""
+
+#: src/pauskollen/main.py:32
+msgid "Breathe out slowly... 1, 2, 3, 4, 5"
+msgstr ""
+
+#: src/pauskollen/main.py:34
+msgid "Body Scan"
+msgstr ""
+
+#: src/pauskollen/main.py:35
+msgid "Close your eyes"
+msgstr ""
+
+#: src/pauskollen/main.py:35
+msgid "Feel your feet on the floor"
+msgstr ""
+
+#: src/pauskollen/main.py:35
+msgid "Relax your legs"
+msgstr ""
+
+#: src/pauskollen/main.py:35
+msgid "Relax your tummy"
+msgstr ""
+
+#: src/pauskollen/main.py:35
+msgid "Relax your shoulders"
+msgstr ""
+
+#: src/pauskollen/main.py:35
+msgid "Relax your face"
+msgstr ""
+
+#: src/pauskollen/main.py:35
+msgid "Open your eyes"
+msgstr ""
+
+#: src/pauskollen/main.py:37
+msgid "Counting"
+msgstr ""
+
+#: src/pauskollen/main.py:38
+msgid "Count slowly to 10"
+msgstr ""
+
+#: src/pauskollen/main.py:38
+msgid "Now count backwards from 10"
+msgstr ""
+
+#: src/pauskollen/main.py:38
+msgid "Take a deep breath"
+msgstr ""
+
+#: src/pauskollen/main.py:40
+msgid "Stretching"
+msgstr ""
+
+#: src/pauskollen/main.py:41
+msgid "Stretch your arms up high"
+msgstr ""
+
+#: src/pauskollen/main.py:41
+msgid "Touch your toes"
+msgstr ""
+
+#: src/pauskollen/main.py:41
+msgid "Roll your shoulders"
+msgstr ""
+
+#: src/pauskollen/main.py:41
+msgid "Shake your hands"
+msgstr ""
+
+#: src/pauskollen/main.py:41
+msgid "Stand still and breathe"
+msgstr ""
+
+#: src/pauskollen/main.py:43
+msgid "5-4-3-2-1 Grounding"
+msgstr ""
+
+#: src/pauskollen/main.py:44
+msgid "Name 5 things you can SEE"
+msgstr ""
+
+#: src/pauskollen/main.py:44
+msgid "Name 4 things you can TOUCH"
+msgstr ""
+
+#: src/pauskollen/main.py:44
+msgid "Name 3 things you can HEAR"
+msgstr ""
+
+#: src/pauskollen/main.py:44
+msgid "Name 2 things you can SMELL"
+msgstr ""
+
+#: src/pauskollen/main.py:44
+msgid "Name 1 thing you can TASTE"
+msgstr ""
+
+#: src/pauskollen/main.py:103 src/pauskollen/main.py:375
+msgid "Pauskollen"
+msgstr ""
+
+#: src/pauskollen/main.py:118
+msgid "About"
+msgstr ""
+
+#: src/pauskollen/main.py:138 src/pauskollen/main.py:302
+msgid "Choose a timer or exercise"
+msgstr ""
+
+#: src/pauskollen/main.py:156 src/pauskollen/main.py:216
+msgid "Start"
+msgstr ""
+
+#: src/pauskollen/main.py:162
+msgid "Stop"
+msgstr ""
+
+#: src/pauskollen/main.py:169
+msgid "Reset"
+msgstr ""
+
+#: src/pauskollen/main.py:176
+msgid "Timer"
+msgstr ""
+
+#: src/pauskollen/main.py:185
+msgid "Pause Exercises"
+msgstr ""
+
+#: src/pauskollen/main.py:211
+#, python-format
+msgid "%d seconds"
+msgstr ""
+
+#: src/pauskollen/main.py:238
+msgid "Exercises"
+msgstr ""
+
+#: src/pauskollen/main.py:276
+#, python-format
+msgid "%d minute pause"
+msgstr ""
+
+#: src/pauskollen/main.py:287
+msgid "Running..."
+msgstr ""
+
+#: src/pauskollen/main.py:295
+msgid "Paused"
+msgstr ""
+
+#: src/pauskollen/main.py:317
+msgid "Time's up! 🎉"
+msgstr ""
+
+#: src/pauskollen/main.py:382
+msgid "Visual timer and regulation exercises for children with ADHD/NPF"
+msgstr ""
