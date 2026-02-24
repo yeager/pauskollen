@@ -11,7 +11,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pauskollen\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-02-22 17:07+0100\n"
+"POT-Creation-Date: 2026-02-23 11:03+0100\n"
 "PO-Revision-Date: 2026-02-22 16:11+0000\n"
 "Last-Translator: Daniel Nylander <po@danielnylander.se>, 2026\n"
 "Language-Team: Swedish (https://app.transifex.com/danielnylander/teams/305215/sv/)\n"
@@ -133,64 +133,73 @@ msgstr "Nämn två saker som du kan LUKTA"
 msgid "Name 1 thing you can TASTE"
 msgstr "Nämn en sak som du kan SMAKA"
 
-#: src/pauskollen/main.py:103 src/pauskollen/main.py:375
-msgid "Pauskollen"
-msgstr "Pauskollen"
+#: src/pauskollen/main.py:103 src/pauskollen/main.py:124
+#: src/pauskollen/main.py:432
+msgid "Break Timer"
+msgstr "Paus-timer"
 
-#: src/pauskollen/main.py:118
+#: src/pauskollen/main.py:131
 msgid "About"
 msgstr "Om"
 
-#: src/pauskollen/main.py:138 src/pauskollen/main.py:302
+#: src/pauskollen/main.py:151 src/pauskollen/main.py:315
 msgid "Choose a timer or exercise"
 msgstr "Välj en timer eller övning"
 
-#: src/pauskollen/main.py:156 src/pauskollen/main.py:216
+#: src/pauskollen/main.py:169 src/pauskollen/main.py:229
 msgid "Start"
 msgstr "Starta"
 
-#: src/pauskollen/main.py:162
+#: src/pauskollen/main.py:175
 msgid "Stop"
 msgstr "Stoppa"
 
-#: src/pauskollen/main.py:169
+#: src/pauskollen/main.py:182
 msgid "Reset"
 msgstr "Nollställ"
 
-#: src/pauskollen/main.py:176
+#: src/pauskollen/main.py:189
 msgid "Timer"
 msgstr "Timer"
 
-#: src/pauskollen/main.py:185
+#: src/pauskollen/main.py:198
 msgid "Pause Exercises"
 msgstr "Pausövningar"
 
-#: src/pauskollen/main.py:211
+#: src/pauskollen/main.py:224
 #, python-format
 msgid "%d seconds"
 msgstr "%d sekunder"
 
-#: src/pauskollen/main.py:238
+#: src/pauskollen/main.py:251
 msgid "Exercises"
 msgstr "Övningar"
 
-#: src/pauskollen/main.py:276
+#: src/pauskollen/main.py:289
 #, python-format
 msgid "%d minute pause"
 msgstr "%d minut paus"
 
-#: src/pauskollen/main.py:287
+#: src/pauskollen/main.py:300
 msgid "Running..."
 msgstr "Kör..."
 
-#: src/pauskollen/main.py:295
+#: src/pauskollen/main.py:308
 msgid "Paused"
 msgstr "Pausad"
 
-#: src/pauskollen/main.py:317
+#: src/pauskollen/main.py:330
 msgid "Time's up! 🎉"
 msgstr "Tiden är slut! 🎉"
 
-#: src/pauskollen/main.py:382
+#: src/pauskollen/main.py:404
+msgid "🎉 Du hittade hemligheten!"
+msgstr "🎉 Du hittade hemligheten!"
+
+#: src/pauskollen/main.py:439
 msgid "Visual timer and regulation exercises for children with ADHD/NPF"
 msgstr "Visuell timer och somatiska övningar för barn med ADHD/NPF"
+
+#: src/pauskollen/main.py:442
+msgid "Thanks to"
+msgstr "Tack till"
