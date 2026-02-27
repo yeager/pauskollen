@@ -1,3 +1,5 @@
+> **⚠️ This app has been migrated to the Autismappar PWA at https://autismappar.se**
+
 # Pauskollen
 
 Visual timer and regulation exercises for children with ADHD/NPF.
